@@ -4,7 +4,7 @@
 
 int main(int argc, char* argv[])
 {
-	char filename[] = "helloworld.py";
+	char filename[] = ".\\main.py";
 	FILE* fp;
 
 	Py_Initialize();
